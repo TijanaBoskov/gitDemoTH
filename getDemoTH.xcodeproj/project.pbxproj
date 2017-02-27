@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					E60437CA1E61A64D00AF737C = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = TC8BXKMDF7;
 						ProvisioningStyle = Automatic;
 					};
 					E60437DE1E61A64E00AF737C = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = TC8BXKMDF7;
 				INFOPLIST_FILE = getDemoTH/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = tijana.boskov.getDemoTH;
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = TC8BXKMDF7;
 				INFOPLIST_FILE = getDemoTH/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = tijana.boskov.getDemoTH;
